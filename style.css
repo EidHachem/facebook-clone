@@ -1,0 +1,29 @@
+body {
+    
+    
+}
+.whole {
+    padding: 150px 25px;
+    display: flex;
+    background-color: #F0F2F5;
+    font-family:Helvetica, Arial, sans-serif ;
+}
+
+.facebook-logo {
+    margin-left: -50px;
+    margin-bottom: -30px;
+    height: 100px;
+    width: 400px;
+}
+.info {
+    padding-left: 40px;
+    font-size: 24px;
+    text-align: left;
+}
+
+.sign-in-create {
+    margin-left: 25px;
+    height: 396px;
+    width: auto;
+    background-color: #FFFFFF;
+}

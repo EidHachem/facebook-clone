@@ -22,8 +22,39 @@ body {
 }
 
 .sign-in-create {
+    text-align: center;
+}
+
+.sign-in {
+    display: flexbox;
     margin-left: 25px;
-    height: 396px;
+    height: auto;
     width: auto;
     background-color: #FFFFFF;
+    border-style: none;
+    border-radius: 5px;
+    border-color: #F0F2F5;
+    padding: 0;
+    text-align: center;
+    
+}
+.email,
+.password,
+.log-in {
+    border-color: #F0F2F5;
+    box-sizing: content-box;
+    margin: 5px;
+    height: 40px;
+    width: 300px;
+    border-radius: 5px;
+    
+}
+.log-in {
+    background-color: #1877f2;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.forgot {
+    text-decoration: none;
 }
